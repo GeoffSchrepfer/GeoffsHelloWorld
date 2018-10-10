@@ -1,2 +1,2 @@
 # HelloWorld
-This stupid respository is for the HOL.
+This hrespository is for the Philly.Net HOL.
