@@ -1,2 +1,2 @@
 # HelloWorld
-This hrespository is for the Philly.Net HOL.
+This respository is for the Philly.Net HOL.
